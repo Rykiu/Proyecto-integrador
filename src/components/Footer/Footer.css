@@ -1,0 +1,25 @@
+.footCont{
+    background-color: #333;
+}
+footer{
+    display:flex;
+    color:white;
+    max-width: 1280px;
+    margin:auto;
+}
+
+.redes, em{
+    display:flex;
+    padding:1rem 0 1rem 0;
+    margin:auto;
+}
+.redes i{
+    margin-left:10px;
+    padding:0 0.5rem 0 0.5rem;
+}
+.redes a{
+    color:white;
+}
+.redes li{
+    float:right;
+}
