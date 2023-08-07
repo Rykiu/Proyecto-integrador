@@ -1,29 +1,36 @@
-.Form{
-    padding: 2rem 0 2rem 1rem;
+.Form {
+  padding: 2rem 0 2rem 0;
 }
-.Form label{
-    font-weight: bold;
+.Form label {
+  font-weight: bold;
 }
-.Form input[type=text], select, textarea {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+.Form input[type="text"],
+select,
+textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
-  
-.Form input[type=submit] {
-    width: 100%;
-    background-color: #d5c250;
-    color: black;
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
+
+.Form input[type="submit"] {
+  width: 100%;
+  background-color: #d5c250;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
 .Form input:invalid {
-    border-color: red;
+  border-color: red;
+}
+
+.Form span {
+  float: right;
+  white-space: nowrap;
 }

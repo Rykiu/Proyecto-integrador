@@ -1,11 +1,11 @@
-.strCont{
-    background-color: #f2f2f2;
+.strCont {
+  background-color: #f2f2f2;
 }
 
-.Store{
-    max-width: 1280px;
-    margin:auto;
-    display:grid;
-    gap:1rem;
-    grid-template-columns:repeat(auto-fit, minmax(min(100%, 20rem), 1fr));
+.Store {
+  max-width: 1280px;
+  margin: auto;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr));
 }

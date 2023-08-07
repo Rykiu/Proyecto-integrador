@@ -1,170 +1,170 @@
 [
-    {
-        "id":100,
-        "categoria":"Kit",
-        "nombre":"Kit Arduino Uno Inicial Principiantes Estuche Led Cables",
-        "precio":"30300",
-        "stock":"20",
-        "imagen":"kitArd.jpg"
-    },
-    {
-        "id":200,
-        "categoria":"Raspberry",
-        "nombre":"Placa De Desarrollo Rp2040 Raspberry Pi Pico",
-        "precio":"3500",
-        "stock":"20",
-        "imagen":"rb01.jpg"
-    },
-    {
-        "id":201,
-        "categoria":"Raspberry",
-        "nombre":"Raspberry Pi 3 B+ Plus Element14",
-        "precio":"54000",
-        "stock":"20",
-        "imagen":"rb02.jpg"
-    },
-    {
-        "id":300,
-        "categoria":"Arduino",
-        "nombre":"Placa Arduino Nano V3 Compatible Usb C Atmega328",
-        "precio":"3550",
-        "stock":"20",
-        "imagen":"ard01.jpg"
-    },
-    {
-        "id":301,
-        "categoria":"Arduino",
-        "nombre":"Placa Arduino Uno R3 Atmega328 Ch340 Iot Atmel + Cable Usb",
-        "precio":"5000",
-        "stock":"20",
-        "imagen":"ard02.jpg"
-    },
-    {
-        "id":302,
-        "categoria":"Arduino",
-        "nombre":"Placa Arduino Mega 2560 R3 Con Cable Usb",
-        "precio":"13000",
-        "stock":"20",
-        "imagen":"ard03.jpg"
-    },
-    {
-        "id":400,
-        "categoria":"Led",
-        "nombre":"Pack 10 Leds 5mm Rojo Difuso",
-        "precio":"719",
-        "stock":"20",
-        "imagen":"led01.jpg"
-    },
-    {
-        "id":401,
-        "categoria":"Led",
-        "nombre":"Pack 10 Leds 5mm Azul Difuso",
-        "precio":"719",
-        "stock":"20",
-        "imagen":"led02.jpg"
-    },
-    {
-        "id":402,
-        "categoria":"Led",
-        "nombre":"Pack 10 Leds 5mm Verde Difuso",
-        "precio":"719",
-        "stock":"20",
-        "imagen":"led03.jpg"
-    },
-    {
-        "id":403,
-        "categoria":"Led",
-        "nombre":"Pack 10 Leds 5mm RGB Difuso",
-        "precio":"668",
-        "stock":"20",
-        "imagen":"led04.png"
-    },
-    {
-        "id":500,
-        "categoria":"Sensor",
-        "nombre":"Módulo Sensor De Gas Mq135 Mq-135 Arduino",
-        "precio":"1400",
-        "stock":"20",
-        "imagen":"sen01.jpg"
-    },
-    {
-        "id":501,
-        "categoria":"Sensor",
-        "nombre":"Módulo Sensor Movimiento Hc Sr501 Pir Infrarrojo",
-        "precio":"900",
-        "stock":"20",
-        "imagen":"sen02.jpg"
-    },
-    {
-        "id":502,
-        "categoria":"Sensor",
-        "nombre":"Módulo Sensor Hc-sr04 Ultrasónico",
-        "precio":"2213",
-        "stock":"20",
-        "imagen":"sen03.jpg"
-    },
-    {
-        "id":503,
-        "categoria":"Sensor",
-        "nombre":"Módulo Sensor Detector De Sonido Ky-037",
-        "precio":"780",
-        "stock":"20",
-        "imagen":"sen04.jpg"
-    },
-    {
-        "id":504,
-        "categoria":"Sensor",
-        "nombre":"Módulo Sensor De Luz Con Ldr Fotoresistor",
-        "precio":"1297",
-        "stock":"20",
-        "imagen":"sen05.jpg"
-    },
-    {
-        "id":600,
-        "categoria":"Varios",
-        "nombre":"Pack 40 Cables Macho Macho 20cm Dupont",
-        "precio":"1144",
-        "stock":"20",
-        "imagen":"var01.jpg"
-    },
-    {
-        "id":601,
-        "categoria":"Varios",
-        "nombre":"Pack 40 Cables Hembra Hembra 20cm Dupont",
-        "precio":"1485",
-        "stock":"20",
-        "imagen":"var02.jpg"
-    },
-    {
-        "id":602,
-        "categoria":"Varios",
-        "nombre":"Pack 40 Cables Macho Hembra 20cm Dupont",
-        "precio":"1369",
-        "stock":"20",
-        "imagen":"var03.jpg"
-    },
-    {
-        "id":603,
-        "categoria":"Varios",
-        "nombre":"Kit 220 Resistencias 5% Valores Diversos",
-        "precio":"1821",
-        "stock":"20",
-        "imagen":"var04.jpg"
-    },
-    {
-        "id":604,
-        "categoria":"Varios",
-        "nombre":"Protoboard De 830 Puntos",
-        "precio":"3024",
-        "stock":"20",
-        "imagen":"var05.jpg"
-    },
-    {
-        "id":605,
-        "categoria":"Varios",
-        "nombre":"Cable Usb Tipo A/B 50cm",
-        "precio":"459",
-        "stock":"20",
-        "imagen":"var06.jpg"
-    }
+  {
+    "id": 100,
+    "categoria": "Kit",
+    "nombre": "Kit Arduino Uno Inicial Principiantes Estuche Led Cables",
+    "precio": "30300",
+    "stock": "20",
+    "imagen": "kitArd.jpg"
+  },
+  {
+    "id": 200,
+    "categoria": "Raspberry",
+    "nombre": "Placa De Desarrollo Rp2040 Raspberry Pi Pico",
+    "precio": "3500",
+    "stock": "20",
+    "imagen": "rb01.jpg"
+  },
+  {
+    "id": 201,
+    "categoria": "Raspberry",
+    "nombre": "Raspberry Pi 3 B+ Plus Element14",
+    "precio": "54000",
+    "stock": "20",
+    "imagen": "rb02.jpg"
+  },
+  {
+    "id": 300,
+    "categoria": "Arduino",
+    "nombre": "Placa Arduino Nano V3 Compatible Usb C Atmega328",
+    "precio": "3550",
+    "stock": "20",
+    "imagen": "ard01.jpg"
+  },
+  {
+    "id": 301,
+    "categoria": "Arduino",
+    "nombre": "Placa Arduino Uno R3 Atmega328 Ch340 Iot Atmel + Cable Usb",
+    "precio": "5000",
+    "stock": "20",
+    "imagen": "ard02.jpg"
+  },
+  {
+    "id": 302,
+    "categoria": "Arduino",
+    "nombre": "Placa Arduino Mega 2560 R3 Con Cable Usb",
+    "precio": "13000",
+    "stock": "20",
+    "imagen": "ard03.jpg"
+  },
+  {
+    "id": 400,
+    "categoria": "Led",
+    "nombre": "Pack 10 Leds 5mm Rojo Difuso",
+    "precio": "719",
+    "stock": "20",
+    "imagen": "led01.jpg"
+  },
+  {
+    "id": 401,
+    "categoria": "Led",
+    "nombre": "Pack 10 Leds 5mm Azul Difuso",
+    "precio": "719",
+    "stock": "20",
+    "imagen": "led02.jpg"
+  },
+  {
+    "id": 402,
+    "categoria": "Led",
+    "nombre": "Pack 10 Leds 5mm Verde Difuso",
+    "precio": "719",
+    "stock": "20",
+    "imagen": "led03.jpg"
+  },
+  {
+    "id": 403,
+    "categoria": "Led",
+    "nombre": "Pack 10 Leds 5mm RGB Difuso",
+    "precio": "668",
+    "stock": "20",
+    "imagen": "led04.png"
+  },
+  {
+    "id": 500,
+    "categoria": "Sensor",
+    "nombre": "Módulo Sensor De Gas Mq135 Mq-135 Arduino",
+    "precio": "1400",
+    "stock": "20",
+    "imagen": "sen01.jpg"
+  },
+  {
+    "id": 501,
+    "categoria": "Sensor",
+    "nombre": "Módulo Sensor Movimiento Hc Sr501 Pir Infrarrojo",
+    "precio": "900",
+    "stock": "20",
+    "imagen": "sen02.jpg"
+  },
+  {
+    "id": 502,
+    "categoria": "Sensor",
+    "nombre": "Módulo Sensor Hc-sr04 Ultrasónico",
+    "precio": "2213",
+    "stock": "20",
+    "imagen": "sen03.jpg"
+  },
+  {
+    "id": 503,
+    "categoria": "Sensor",
+    "nombre": "Módulo Sensor Detector De Sonido Ky-037",
+    "precio": "780",
+    "stock": "20",
+    "imagen": "sen04.jpg"
+  },
+  {
+    "id": 504,
+    "categoria": "Sensor",
+    "nombre": "Módulo Sensor De Luz Con Ldr Fotoresistor",
+    "precio": "1297",
+    "stock": "20",
+    "imagen": "sen05.jpg"
+  },
+  {
+    "id": 600,
+    "categoria": "Varios",
+    "nombre": "Pack 40 Cables Macho Macho 20cm Dupont",
+    "precio": "1144",
+    "stock": "20",
+    "imagen": "var01.jpg"
+  },
+  {
+    "id": 601,
+    "categoria": "Varios",
+    "nombre": "Pack 40 Cables Hembra Hembra 20cm Dupont",
+    "precio": "1485",
+    "stock": "20",
+    "imagen": "var02.jpg"
+  },
+  {
+    "id": 602,
+    "categoria": "Varios",
+    "nombre": "Pack 40 Cables Macho Hembra 20cm Dupont",
+    "precio": "1369",
+    "stock": "20",
+    "imagen": "var03.jpg"
+  },
+  {
+    "id": 603,
+    "categoria": "Varios",
+    "nombre": "Kit 220 Resistencias 5% Valores Diversos",
+    "precio": "1821",
+    "stock": "20",
+    "imagen": "var04.jpg"
+  },
+  {
+    "id": 604,
+    "categoria": "Varios",
+    "nombre": "Protoboard De 830 Puntos",
+    "precio": "3024",
+    "stock": "20",
+    "imagen": "var05.jpg"
+  },
+  {
+    "id": 605,
+    "categoria": "Varios",
+    "nombre": "Cable Usb Tipo A/B 50cm",
+    "precio": "459",
+    "stock": "20",
+    "imagen": "var06.jpg"
+  }
 ]
