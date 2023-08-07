@@ -1,22 +1,24 @@
-.homeCont{
-    background-color: #f2f2f2;
-    padding:1rem 0 2rem 0;
+.homeCont {
+  background-color: #f2f2f2;
+  padding: 1rem 0 2rem 0;
 }
-.Home{
-    max-width: 1280px;
-    margin:auto;
+.Home {
+  max-width: 1280px;
+  margin: auto;
+  padding: 0 1.5rem 0 1.5rem;
 }
-.Home h2,h3{
-    padding:2rem 0 1rem 0;
+.Home h2,
+h3 {
+  padding: 2rem 0 1rem 0;
 }
-.Home h4{
-    padding:0.25rem 0 0.25rem 0;
+.Home h4 {
+  padding: 0.25rem 0 0.25rem 0;
 }
-.Home li{
-    list-style-type: none;
-    padding: 0 0 0 1rem;
+.Home li {
+  list-style-type: none;
+  padding: 0 0 0 1rem;
 }
-.Home a{
-    color: inherit;
-    text-decoration: none;
+.Home a {
+  color: inherit;
+  text-decoration: none;
 }
